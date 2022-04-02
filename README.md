@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤝 My name is Prerit. 
-- 📈 I love finance, markets, trading and crypto. 
-- 💻 I make trading bots, Python packages, and more.
+- 🤝 My name is Prerit
+- 📈 I love finance, markets, trading and crypto
+- 💻 I make trading bots, Python packages, and more
 - 🧑‍🤝‍🧑 I'm open to ideas and collaboration!
