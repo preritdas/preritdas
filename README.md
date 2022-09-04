@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 📈 I'm a student of finance, markets/trading, Web3/blockchain, and Python
 - 💻 I make trading bots, Python packages, and more
 - 🧑‍🤝‍🧑 I'm open to ideas and collaboration!
+
+![stats](https://github-readme-stats.vercel.app/api?username=preritdas&count_private=True&show_icons=True&theme=tokyonight)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preritdas)
