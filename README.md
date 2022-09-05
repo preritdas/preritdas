@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 - 🤝 My name is Prerit
 - 📈 I'm a student of finance, markets/trading, Web3/blockchain, and Python
 - 💻 I make trading bots, Python packages, and more
+- :warning: All my deployed bot and software repos are private. I only release retired and inactive source code. 
 - 🧑‍🤝‍🧑 I'm open to ideas and collaboration!
+
+### Some active private projects
+
+- :chart_with_upwards_trend: :robot: Wooster Trading Systems :moneybag: :money_with_wings:
+- [Red Cardinal Alerts](https://redcardinalalerts.com)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=preritdas&count_private=True&show_icons=True&theme=tokyonight)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preritdas)
