@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - [Red Cardinal Alerts](https://redcardinalalerts.com)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=preritdas&count_private=True&show_icons=True&theme=tokyonight)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preritdas)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preritdas&hide=html)
