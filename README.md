@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤝 My name is Prerit
 - 📈 I'm a student of finance, markets/trading, Web3/blockchain, and Python
 - 💻 I make trading bots, Python packages, and more
 - :warning: All my deployed bot and software repos are private. I only release retired and inactive source code. 
