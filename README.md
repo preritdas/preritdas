@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📈 I'm a student of finance, markets/trading, AI, and Python working at [StandardDAO](https://standarddao.finance)
-- 💻 I make AI applications (see [Jeeves](https://jeeves.preritdas.com), trading bots, Python packages, and more
+- 💻 I make AI applications (see [Jeeves](https://jeeves.preritdas.com)), trading bots, Python packages, and more
 - :warning: All my deployed bot and software repos are private. I typically only release retired and inactive source code. 
 - 🧑‍🤝‍🧑 I'm always open to ideas and collaboration!
 
