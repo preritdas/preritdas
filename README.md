@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### Some active private projects
 
-- :chart_with_upwards_trend: :robot: [Wooster Trading Systems](https://wooster.preritdas.com) :moneybag: :money_with_wings:
 - [Jeeves](https://jeeves.preritdas.com)
+- :chart_with_upwards_trend: :robot: [Wooster Trading Systems](https://wooster.preritdas.com) :moneybag: :money_with_wings:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=preritdas&count_private=True&show_icons=True&theme=tokyonight)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preritdas&hide=html)
