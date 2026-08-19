@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📈 I'm a student of finance, markets/trading, AI, and Python working at [Standard](https://standarddao.finance)
-- 💻 I make AI applications (see [Jeeves](https://jeeves.preritdas.com)), trading bots, Python packages, and more
+- 📈 I'm a student of finance, markets/trading, AI, and Python bringing together diehard young engineers at [Studio RTF](https://studiortf.com)
+- 💻 I make AI agents (see [Jeeves](https://jeeves.preritdas.com)), trading bots, Python packages, and more
 - :warning: All my deployed bot and software repos are private. I typically only release retired and inactive source code. 
 - 🧑‍🤝‍🧑 I'm always open to ideas and collaboration!
 
-### Some active private projects
+### Some old private projects
 
 - [Jeeves](https://jeeves.preritdas.com)
 - :chart_with_upwards_trend: :robot: [Wooster Trading Systems](https://wooster.preritdas.com) :moneybag: :money_with_wings:
